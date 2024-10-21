@@ -31,7 +31,9 @@ def tokenize_text(text, remove_stopwords=False):
     Tokenize text using the nltk library
     """
     tokens = []
+    #將他根據標點符號分為一個一個句子
     for d in nltk.sent_tokenize(text, language='english'):
+        #將每一個句子分為一個一個的文字
         for word in nltk.word_tokenize(d, language='english'):
             # filters here
             tokens.append(word)
