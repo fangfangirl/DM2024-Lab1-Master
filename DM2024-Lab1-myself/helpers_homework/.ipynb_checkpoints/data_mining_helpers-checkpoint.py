@@ -19,9 +19,14 @@ def format_rows(docs):
     return D # 返回 DataFrame
 
 
-def format_labels(target, docs):
-    """ format the labels """
-    return docs.target_names[target]
+def format_labels_number(target, docs):
+    """ format the labels based on sentiment_name """
+    if target == 'nostalgia':
+        return 0
+    elif target == 'not nostalgia':
+        return 1
+    else:
+        return -1  # Handle unexpected cases
 
 def check_missing_values(row):
     """ functions that check and verifies if there are missing values in dataframe """
