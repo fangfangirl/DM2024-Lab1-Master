@@ -263,8 +263,8 @@ weeks	ago:3
 sorry:4
 teresa:4
 dynamite:4
-dynamite	miss:3
 dynamite	little:3
+dynamite	miss:3
 enough:4
 seems:4
 living:4
@@ -672,10 +672,10 @@ us:15
 anymore:15
 should:15
 after:15
-after	even:3
 after	came:3
-after	true:3
 after	say:3
+after	even:3
+after	true:3
 without:15
 singers:16
 came:16
