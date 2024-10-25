@@ -1,0 +1,592 @@
+thinks:3 
+months:3 
+currently:3 
+kids:3 
+wait:3 
+1966:3 
+dead:3 
+1980:3 
+race:3 
+lose:3 
+company:3 
+gave:3 
+70:3 
+problem:3 
+brother:3 
+evergreen:3 
+themselves:3 
+similar:3 
+richard:3 
+imagine:3 
+kinds:3 
+creation:3 
+bought:3 
+supernatural:3 
+titans:3 
+moving:3 
+instruments:3 
+honest:3 
+himself:3 
+morning:3 
+somehow:3 
+send:3 
+sadly:3 
+cute:3 
+film:3 
+describe:3 
+million:3 
+perform:3 
+melancholy:3 
+huge:3 
+fits:3 
+second:3 
+doing:3 
+missing:3 
+pictures:3 
+list:3 
+add:3 
+feels:3 
+child:3 
+help:3 
+further:3 
+certain:3 
+valentine:3 
+headphones:3 
+go	sway	weak:3 
+channel:3 
+15:3 
+lyric:3 
+exactly:3 
+breath:3 
+scary:3 
+musical:3 
+head:3 
+18:3 
+male:3 
+gives:3 
+vaughan:3 
+america:3 
+hill:3 
+match:3 
+watching:3 
+performed:3 
+musicians:3 
+crafted:3 
+each:3 
+try:3 
+mans:3 
+stay:3 
+presence:3 
+everyday:3 
+getting:3 
+11:3 
+10:3 
+became:3 
+englebert:3 
+taste:3 
+fans:3 
+tired:3 
+quite:3 
+means:3 
+grandparents:3 
+shared:3 
+post:3 
+photo:3 
+dad:3 
+stand:3 
+locklin:3 
+ended:3 
+doesn:3 
+looked:3 
+wished:3 
+own:3 
+house:3 
+missed:3 
+loves:3 
+orbison:3 
+60s	50s:3 
+backing:3 
+compared:3 
+40:3 
+sent:3 
+call:3 
+glen:3 
+studio:3 
+minutes:3 
+style:3 
+definitely:3 
+beginning:3 
+greatest	entertainer:3 
+vintage:3 
+forgotten:3 
+knowing:3 
+ask:3 
+share:3 
+touch:3 
+soulful:3 
+beyond:3 
+line:3 
+aren:3 
+while:3 
+son:3 
+school:3 
+davis:3 
+whenever:3 
+presley:3 
+michael:3 
+prefer:3 
+side:3 
+middle:3 
+job:3 
+trailer:3 
+youth:3 
+deserved:3 
+wanna:3 
+90s:3 
+fell:3 
+broken:3 
+orchestra:3 
+unbelievable:3 
+album:3 
+known:3 
+1967:3 
+interpretation:3 
+innocent:3 
+drums:3 
+quality:3 
+showing:3 
+blow:3 
+rhythm:3 
+sir:3 
+grandpa:3 
+grandma:3 
+college:3 
+taking:3 
+mary:3 
+december:3 
+blessing:3 
+30:3 
+fan:3 
+emotional:3 
+leo:4 
+scott:4 
+easy:4 
+soft:4 
+80s:4 
+tomorrow:4 
+since:4 
+crazy:4 
+hair:4 
+laugh:4 
+myself:4 
+crying:4 
+excellent:4 
+night:4 
+disco:4 
+car:4 
+cool:4 
+gets:4 
+seemed:4 
+female:4 
+tire:4 
+garbage:4 
+reason:4 
+moment:4 
+seeing:4 
+light:4 
+movies:4 
+outstanding:4 
+might:4 
+meaningful:4 
+everything:4 
+women	men:4 
+sironaca:4 
+brenda	lee:4 
+anyone	actress:3 
+frankie:4 
+dean:4 
+type:4 
+living:4 
+seems:4 
+enough:4 
+miss	dynamite:3 
+little	dynamite:3 
+teresa:4 
+sorry:4 
+ago	weeks:3 
+message:4 
+70s:4 
+intro:4 
+harmonies:4 
+clip:4 
+wife:4 
+isn:4 
+piano:4 
+recordings:4 
+anymore	gonna	sun	shine	ain:3 
+recorded:4 
+pleasure:4 
+both:4 
+tears	brings:3 
+stuff:4 
+feelings:4 
+lonely:4 
+talented:4 
+wasn:4 
+superb:4 
+john:4 
+incredible:4 
+however:4 
+over	james:3 
+concert:4 
+half:4 
+sort:4 
+sorrow:4 
+14:4 
+often:4 
+appreciated:4 
+memories:4 
+read:4 
+idea:4 
+comments:4 
+shame:4 
+popular:4 
+wrote:4 
+underrated:4 
+alone:4 
+loss:4 
+able:4 
+met:4 
+saw:4 
+powerful:4 
+beat:4 
+talking:4 
+short:4 
+magic:4 
+doubt:4 
+beatles:4 
+childhood:4 
+four:4 
+away	takes:3 
+whose:4 
+boy:4 
+every	word:3 
+generations:4 
+blues:4 
+along:4 
+place:4 
+later:4 
+1st:4 
+although:4 
+track:5 
+clear	karen:3 
+everytime:5 
+running:5 
+likes:5 
+far:5 
+class:5 
+record:5 
+modern:5 
+learn:5 
+beauty:5 
+comes:5 
+break:5 
+star:5 
+touching:5 
+anybody:5 
+behind:5 
+hearing:5 
+anything:5 
+actually:5 
+two:5 
+totally:5 
+door:5 
+rip:5 
+big:5 
+bit:5 
+together:5 
+vocalist:5 
+making:5 
+died:5 
+angel:5 
+low:5 
+thinking:5 
+soon:5 
+earth:5 
+face:5 
+gorgeous:5 
+certainly:5 
+create:5 
+tunes:5 
+past:5 
+group:5 
+natural:5 
+black:5 
+17:5 
+vocal:5 
+legend:5 
+forget:5 
+bass:5 
+attention:5 
+show:5 
+16:5 
+cause:5 
+found:5 
+credit:5 
+magnificent:5 
+white:5 
+stop:5 
+friends:5 
+dear:5 
+knew:5 
+three:5 
+mother:5 
+die:5 
+mr:5 
+100:5 
+remember:5 
+father:5 
+number:5 
+leave:5 
+funny:6 
+need:6 
+couple:6 
+timeless:6 
+billy:6 
+80:6 
+sweet:6 
+vocals:6 
+hey:6 
+wake:6 
+dream:6 
+dancing:6 
+melody:6 
+course:6 
+stars:6 
+matter:6 
+screen:6 
+glad:6 
+english:6 
+truly:6 
+start:6 
+artists:6 
+agree:6 
+use:6 
+performance:6 
+looks:6 
+take:6 
+last:6 
+crap:6 
+happened:6 
+daughter:6 
+pure	gold:3 
+said:6 
+given:6 
+awesome:6 
+keep:6 
+care:6 
+sharing:6 
+classics:6 
+playing:6 
+done:6 
+story:6 
+started:6 
+mom:6 
+parents:6 
+gone:6 
+brought:6 
+different:6 
+baby:6 
+rock	roll:6 
+next:6 
+guess:6 
+goes:6 
+close:6 
+jim	reeves:6 
+brothers	walker:5 
+also:7 
+comment:7 
+everyone:7 
+uk:7 
+away	passed:3 
+60	50:3 
+roy:7 
+yet:7 
+heaven:7 
+else:7 
+unique:7 
+pop	written:3 
+artist:7 
+history:7 
+name	laura:3 
+talent:7 
+masterpiece:7 
+until:7 
+grew:7 
+left:7 
+hard:7 
+lived:7 
+makes	cry:4 
+told:7 
+must:7 
+probably:7 
+background:7 
+oh:7 
+early:7 
+appreciate:7 
+off:7 
+maybe:7 
+least:7 
+top:7 
+loving:7 
+age	golden:5 
+full:8 
+guys:8 
+2019:8 
+hits	sang:3 
+hit	sang:3 
+gonna	change:3 
+nothing	change:4 
+mean:8 
+bless:8 
+looking:8 
+once:8 
+listened:8 
+bad:8 
+peace	rest:3 
+fantastic	woman:3 
+nothing	going:3 
+lost:8 
+give:8 
+go	let:3 
+through:8 
+home:8 
+thanks	posting:5 
+especially:8 
+absolutely:8 
+part:8 
+meaning:8 
+late:8 
+used:8 
+played	radio:3 
+play	radio:3 
+future:8 
+king:8 
+hope:8 
+around	end:3 
+almost:9 
+happy:9 
+ll:9 
+born:9 
+perfect:9 
+handsome:9 
+year:9 
+sung:9 
+yes	person:3 
+wonder:9 
+though:9 
+anyone	please:3 
+others:9 
+things:9 
+ones:9 
+family:9 
+sound	60:3 
+mind:9 
+soul:9 
+special:9 
+favorites:9 
+understand:10 
+want:10 
+down:10 
+sings:10 
+lady:10 
+friend:10 
+long	ago:3 
+thing:10 
+believe:10 
+age	movie:3 
+tell:10 
+feeling	emotion:3 
+them	other:3 
+true	says:3 
+pretty:11 
+lot:11 
+dance:11 
+re:11 
+kind:11 
+thought:11 
+see	eyes:3 
+tears	eyes:6 
+voices:11 
+didn:11 
+words:11 
+lol:11 
+called:11 
+find:11 
+anyone	does:5 
+band:11 
+work:11 
+someone:11 
+put:11 
+live	long:3 
+enjoy:11 
+which:11 
+new	generation:3 
+another	guy:3 
+romantic:12 
+sure:12 
+times:12 
+lovely:12 
+nowadays:12 
+few:12 
+tune:12 
+something	wrong:4 
+every	single:4 
+every	girl:3 
+brilliant:12 
+sounds:12 
+youtube:13 
+made	being:4 
+may:13 
+our:13 
+look:13 
+ve	seen:4 
+right:13 
+them	play:3 
+say	era:3 
+back	era:3 
+them	era:4 
+original:14 
+same:14 
+into:14 
+without:15 
+say	after:3 
+even	after:3 
+came	after:3 
+true	after:3 
+should:15 
+us:15 
+where:16 
+wow:16 
+back	sound:3 
+greatest	forever:3 
+elvis	forever:5 
+country:16 
+every	again:3 
+singers:16 
+because:17 
+elvis	over:3 
+before:17 
+ve	feel:3 
+makes	feel:4 
+elvis	greatest:3 
+them	back:3 
+age	young:4 
+favorite:20 
+wonderful:20 
+well:20 
+days:20 
+every	lyrics:3 
+every	them:4 
+classic:21 
+loved:21 
