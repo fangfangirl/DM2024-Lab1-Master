@@ -365,10 +365,10 @@ stay:6
 dances:6
 dances	did:3
 though:6
-though	get:3
 though	even:3
 though	by:3
 though	think:3
+though	get:3
 something:6
 doing:6
 doing	or:3
@@ -394,8 +394,8 @@ things:7
 things	do:3
 1966:7
 both:7
-both	them:3
 both	too:3
+both	them:3
 girlfriend:7
 remembering:7
 oldies:7
@@ -455,8 +455,8 @@ each	favorite:3
 each	other:5
 almost:8
 said:8
-said	favorite:3
 said	if:3
+said	favorite:3
 rock:8
 rock	60:3
 elvis:8
@@ -480,8 +480,8 @@ grade:8
 say:8
 find:9
 down:9
-down	later:3
 down	memory:3
+down	later:3
 few:9
 its:9
 sure:9
@@ -490,8 +490,8 @@ player	jim:3
 record	player	jim:3
 player	record:6
 left:9
-left	sad:3
 left	too:3
+left	sad:3
 together:9
 along:9
 tv:9
@@ -505,9 +505,9 @@ place:9
 place	make:3
 right:9
 karen:9
+karen	rip:3
 karen	or:3
 karen	lost:3
-karen	rip:3
 didn:10
 didn	or:3
 know	didn	or:3
@@ -532,10 +532,10 @@ use:10
 14:10
 14	year:3
 changed:10
-changed	tears:3
+changed	has:3
 changed	today:3
 changed	today	sad:3
-changed	has:3
+changed	tears:3
 changed	sad:4
 hit:10
 friends:10
@@ -557,8 +557,8 @@ summer:10
 summer	year:3
 before:11
 words:11
-words	today:3
 words	well:3
+words	today:3
 tune:11
 tune	them:3
 born:11
@@ -572,9 +572,9 @@ remind:11
 remind	last:3
 remind	will:4
 going:11
+going	since:3
 going	would:3
 going	their:3
-going	since:3
 want:11
 want	people:3
 big:11
@@ -586,22 +586,22 @@ classic:11
 which:11
 which	over:3
 lost:11
-lost	year:3
+lost	cry:3
 lost	us:3
 lost	yesterday:3
-lost	cry:3
+lost	year:3
 lost	will:4
 went:11
-went	got:3
-went	girl:3
 went	such:3
 went	see:3
+went	got:3
+went	girl:3
 here:11
 brother:11
 brother	been:3
 through:11
-through	playing:3
 through	past:3
+through	playing:3
 night:11
 night	high:3
 night	last:3
@@ -615,9 +615,9 @@ grew:12
 grew	reeves:3
 people:12
 your:12
-your	get:3
-your	eyes:3
 your	us:3
+your	eyes:3
+your	get:3
 fantastic:12
 forever:12
 forever	cry:3
@@ -642,45 +642,45 @@ their:12
 their	during:3
 sister:12
 age:13
-age	parents:3
 age	died:3
+age	parents:3
 think:13
-think	early:3
 think	by:3
+think	early:3
 rip:13
 while:13
 while	us:4
 last:13
+last	year:3
 last	dance:3
 last	or:3
-last	year:3
 last	will:4
 10:13
 10	been:3
 10	year:3
 10	later:3
 eyes:13
+eyes	them:3
 eyes	brought:3
 eyes	brought	tears:3
-eyes	them:3
 eyes	tears:8
 lyrics:13
 lyrics	today:3
 even:13
-even	would:3
 even	age:3
+even	would:3
 even	know:4
 80:13
 later:14
 later	has:3
 later	since:3
+later	ever:3
 later	year:3
 later	been:3
-later	ever:3
 make:14
 make	cry:3
-make	them:3
 make	where:3
+make	them:3
 hearing:14
 hearing	away:3
 missed:14
@@ -688,14 +688,14 @@ missed	today:3
 made:14
 made	cry:4
 country:14
-country	over:3
 country	favorite:3
+country	over:3
 country	will:4
 during:14
 growing:14
 tears:14
-tears	brought:3
 tears	past:3
+tears	brought:3
 brought:14
 brought	lot:3
 take:14
@@ -707,16 +707,16 @@ dance:15
 dance	high:3
 dance	has:4
 singer:15
-singer	since:3
 singer	well:3
-singer	no:3
+singer	since:3
 singer	listened:3
+singer	no:3
 singer	lovely:4
 father:15
 father	kid:4
 too:15
-too	about:3
 too	been:3
+too	about:3
 too	us:3
 boy:15
 boy	ever:3
@@ -740,17 +740,17 @@ man	oh:4
 past:15
 past	or:3
 listened:16
-listened	kid:3
 listened	jim:3
+listened	kid:3
 listened	since:4
 lot:16
 lot	has:3
 lot	girl:3
 if:16
 if	would:3
-if	only:3
 if	about:3
 if	or:3
+if	only:3
 if	did:4
 live:16
 live	if:3
@@ -764,18 +764,18 @@ died:16
 gone:16
 gone	them:3
 gone	high:3
-gone	long:3
+gone	get:3
 gone	today:3
 gone	sad:3
-gone	get:3
+gone	long:3
 gone	by:4
 mother:16
 mother	or:3
 mother	has:4
 nostalgia:16
 feel:16
-feel	today:3
 feel	child:3
+feel	today:3
 feel	nostalgic:5
 most:17
 most	them:3
@@ -791,32 +791,32 @@ heart:18
 heart	because:3
 record:18
 record	favorite:3
-record	well:3
 record	jim:3
+record	well:3
 record	get:3
 record	over:3
 60:18
-60	early:3
 60	being:3
+60	early:3
 60	70:6
 get:18
-get	wish:3
 get	over:3
+get	wish:3
 more:18
 know:18
-know	will:3
 know	or:3
+know	will:3
 oh:18
 oh	sweet:3
 oh	because:4
 no:19
-no	girl:3
 no	or:3
+no	girl:3
 no	today:4
 reeves:19
-reeves	early:3
 reeves	would:3
 jim	reeves	would:3
+reeves	early:3
 reeves	over:3
 reeves	favorite:3
 jim	reeves	favorite:3
@@ -831,8 +831,8 @@ being	would:3
 being	by:4
 being	go:5
 way:19
-way	did:3
 way	today:3
+way	did:3
 early:20
 early	long:3
 well:20
@@ -844,24 +844,24 @@ did	such:3
 lovely:20
 lovely	such:3
 girl:20
-girl	high:3
 girl	playing:3
+girl	high:3
 girl	long:4
 girl	long	year:3
 girl	year:5
 sweet:21
 got:21
-got	long:3
-got	since:3
 got	been:3
 got	year:3
+got	long:3
+got	since:3
 got	ever:4
 over:21
-over	jim:3
-over	been:3
 over	them:3
-over	will:3
+over	been:3
 over	or:3
+over	jim:3
+over	will:3
 over	playing:4
 70:21
 been:21
@@ -870,11 +870,11 @@ been	or	has:3
 been	has:5
 been	since:7
 since:22
-since	or:3
 since	such:3
+since	or:3
 since	ever:4
-since	has:4
 since	away:4
+since	has:4
 high:22
 high	long:3
 high	year:3
@@ -886,9 +886,9 @@ memory:23
 bring:23
 bring	them:3
 long:23
-long	will:3
-long	has:3
 long	ever:3
+long	has:3
+long	will:3
 long	year:4
 sad:23
 sad	by:3
@@ -896,27 +896,27 @@ sad	today:4
 child:24
 child	such:3
 year:24
-year	or:3
 year	by:3
+year	or:3
 jim:25
-jim	favorite:3
 jim	such:3
 jim	would:3
 jim	only:3
+jim	favorite:3
 away:25
 by:25
 by	or:5
 has:25
 has	would:3
-has	only:3
 has	by:3
+has	only:3
 has	or:4
 has	away:4
 today:25
 today	such:3
-today	or:3
 today	by:3
 today	has:3
+today	or:3
 today	wish:4
 about:25
 about	kid:3
@@ -935,8 +935,8 @@ such	will:4
 them:26
 them	will:3
 or:26
-or	only:3
 or	go:3
+or	only:3
 wish:26
 wish	or:3
 wish	go:6

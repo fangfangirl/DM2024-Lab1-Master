@@ -538,8 +538,8 @@ change:8
 change	gonna:3
 change	nothing:4
 sang:8
-sang	hit:3
 sang	hits:3
+sang	hit:3
 2019:8
 guys:8
 full:8
@@ -673,9 +673,9 @@ anymore:15
 should:15
 after:15
 after	true:3
-after	even:3
-after	say:3
 after	came:3
+after	say:3
+after	even:3
 without:15
 singers:16
 came:16
